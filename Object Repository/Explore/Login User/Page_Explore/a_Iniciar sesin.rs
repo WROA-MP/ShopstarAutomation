@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Iniciar sesin</name>
+   <tag></tag>
+   <elementGuidId>414d9ebb-0855-4510-9a65-bc2ec3521732</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Iniciar sesión')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm.btn-primary.btn-open-auth-iframe-modal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0ddfd000-d502-4a8b-b5e5-e0890180a3f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary btn-open-auth-iframe-modal</value>
+      <webElementGuid>d5133abb-3354-4054-b972-54bc294ebc7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>88a71f71-502b-4174-94b8-0c3c22b30bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#iframe-auth-modal</value>
+      <webElementGuid>2beef29f-e8fd-4a0f-b822-020dca01c4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>230370db-71d8-4a1a-95aa-acc040904078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar sesión</value>
+      <webElementGuid>c75bd1bf-9b36-406e-a66b-8f86afc8bbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home index modal-open&quot;]/header[@class=&quot;header&quot;]/nav[@class=&quot;navbar navbar-light navbar-expand bg-white py-0&quot;]/div[@class=&quot;container-lg px-2 px-sm-auto&quot;]/ul[@class=&quot;navbar-nav flex-row&quot;]/li[@class=&quot;nav-item me-2 d-none d-md-flex&quot;]/a[@class=&quot;btn btn-sm btn-primary btn-open-auth-iframe-modal&quot;]</value>
+      <webElementGuid>77705cdf-2336-45db-9d71-888bd46fc371</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Iniciar sesión')]</value>
+      <webElementGuid>1ff6c42a-8ffe-464b-946e-049147913e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/preceding::a[1]</value>
+      <webElementGuid>b3f0200f-ec33-460d-9cf5-b0eb17f26fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar sesión'])[2]/preceding::a[2]</value>
+      <webElementGuid>2384e39f-c1ae-4777-ae19-a812e49c449c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
+      <webElementGuid>730109ae-acf1-434a-883e-0fdf1b0e335e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>cbcd2df7-276b-4616-9f01-62a82367cedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
+      <webElementGuid>043e2165-5bf0-43b2-993b-3d45afd36a6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
