@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Buscar</name>
+   <tag></tag>
+   <elementGuidId>d7db2947-42b8-4a0a-9608-1fb7f1705fbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app&quot;]/div[2]/div[2]/div/div[2]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1b1581a4-94ec-41e8-9365-aad98c617578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>muscle-button btn-type-solid btn-size-medium text-base bold-text h-[48px]</value>
+      <webElementGuid>90290dfb-49e5-4f3c-849b-236f9f6a61a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buscar</value>
+      <webElementGuid>a3247986-1f04-4bcb-bb3c-6b84ebc4d729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;nav-card-container global-responsive-horizontal-paddings&quot;]/div[@class=&quot;nav-card&quot;]/div[@class=&quot;nav-card-section&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;flex flex-col md:flex-row md:items-center gap-4&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-medium text-base bold-text h-[48px]&quot;]</value>
+      <webElementGuid>c17ecfea-a386-4499-b481-14cb46e90b4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[2]/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>0f3f732f-8c54-41a0-b213-f3aa22579d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autos'])[1]/following::button[2]</value>
+      <webElementGuid>78a56300-e012-453c-ae57-f0032ff2ad1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alojamientos'])[1]/following::button[2]</value>
+      <webElementGuid>09e7116b-f5ab-41c7-a8df-fdb3bb3297db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descubre nuestras recomendaciones para ti'])[1]/preceding::button[1]</value>
+      <webElementGuid>5414af72-1365-45c2-b33c-5f8b41c0a233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Estamos aquí para ayudarte!'])[1]/preceding::button[9]</value>
+      <webElementGuid>9dd35def-8571-42ea-9223-502844762f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buscar']/parent::*</value>
+      <webElementGuid>2d05049a-d7f3-48ee-a55a-4d21bff73c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>f3d3189a-b49c-4bbe-bfef-b54de1f8ff40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Buscar' or . = 'Buscar')]</value>
+      <webElementGuid>1a45ddfa-a753-4b4c-abbf-d9dc4389b577</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

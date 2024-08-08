@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;headlessui-dialog-panel-:rb:&quot;]/div[2]/div/div/div[3]/button</value>
+         <value>(//button[@class='muscle-button btn-type-solid btn-size-medium text-base bold-text'][contains(.,'Iniciar sesión')])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bd7b9cd8-710d-4f0c-bb7e-c5bdac8ae509</webElementGuid>
+      <webElementGuid>74a399e6-5efb-4771-81ec-ce7213634283</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>muscle-button btn-type-solid btn-size-medium text-base bold-text</value>
-      <webElementGuid>c43c8206-d25a-4db9-934a-b3df5e2ccf04</webElementGuid>
+      <webElementGuid>9d550c72-77ae-47f0-9355-02b510ef9db6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Iniciar sesión</value>
-      <webElementGuid>3e04c2e3-cbd4-4bff-a69f-974bb0205c55</webElementGuid>
+      <webElementGuid>41c74eb7-19a0-40c1-b2f4-c5d9c56788d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content global-responsive-horizontal-margins  global-max-page-width&quot;]/div[@class=&quot;flex flex-row gap-4 h-full items-center justify-end&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-medium text-base bold-text&quot;]</value>
-      <webElementGuid>d81a577c-c233-4ace-97fd-25a976bff340</webElementGuid>
+      <webElementGuid>f4a15b2f-843f-48e1-a1b6-eb562ebf042c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='app']/div/div/div[3]/div/button</value>
-      <webElementGuid>0364d858-b484-4a56-9c57-353086106df2</webElementGuid>
+      <webElementGuid>17e773ae-cb9c-44df-bfbf-283868a8a732</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/preceding::button[1]</value>
-      <webElementGuid>b94b4792-ceec-4c57-8116-ca66c33c5fed</webElementGuid>
+      <webElementGuid>7d83dd8c-b90a-4b6e-9272-deef88e0ed09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cusco, Perú'])[1]/preceding::button[2]</value>
-      <webElementGuid>5a127d19-eebe-431a-af08-2a874fdb205d</webElementGuid>
+      <webElementGuid>3fef68ee-0b33-4d5e-8116-6cf8e7c96177</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
-      <webElementGuid>5c451c64-0b6a-4fe4-a2b7-4eb6903b0612</webElementGuid>
+      <webElementGuid>1e48be21-8e1e-45a1-b883-f6a69d9e5c1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>8cc124c1-fd6a-4375-be12-578666d8ec10</webElementGuid>
+      <webElementGuid>590a0a3e-175c-4594-9dd4-695a913bfa2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
-      <webElementGuid>ba8b5b89-a39c-46f2-bf8d-3392a7cb8ff1</webElementGuid>
+      <webElementGuid>e20cbd66-1e26-44d2-8f91-a80c3fc4893f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

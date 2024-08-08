@@ -17,18 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel_e2e/Search hotel with 2 rooms'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://viajes.shopstar.pe/')
+WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_Filters_Order/div_Tipo de Alojamiento'))
 
-WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Shopstar/Page_Hotels/Page_Filters_Order/input_Tipo de Alojamiento_Check_ApartaHotel'))
 
-WebUI.click(findTestObject('Shopstar/Login User/Page_Shopstar Viajes/Iniciar sesion'))
+WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_Filters_Order/button_Aplicar'))
 
-WebUI.setText(findTestObject('Shopstar/Login User/Page_Shopstar Viajes/input_Email_outline-none w-full'), 'achanto@musclepoints.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Shopstar/Login User/Page_Shopstar Viajes/input_Contrasea_outline-none w-full'), 
-    'Ou+g6Pu2ISkfoGUledpong==')
-
-WebUI.click(findTestObject('Shopstar/Login User/Page_Shopstar Viajes/button_Iniciar sesin'))
+WebUI.findWebElement(findTestObject(null))
 
