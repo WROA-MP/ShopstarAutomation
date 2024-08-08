@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Listo_2nd</name>
+   <tag></tag>
+   <elementGuidId>7e16b132-2135-444b-aabc-c67f284bf444</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.muscle-button.btn-type-solid.btn-size-full-length.text-base.bold-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app&quot;]/div[2]/div[2]/div/div[2]/div/div[1]/div/div[2]/div/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>840eeeb7-5235-409a-91e0-33d655b9a0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>muscle-button btn-type-solid btn-size-full-length text-base bold-text</value>
+      <webElementGuid>177a4c42-48ca-4acf-b727-59a8208d1813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Listo</value>
+      <webElementGuid>e19e536d-6fdc-4291-9b13-db85a9ec4704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;nav-card-container global-responsive-horizontal-paddings&quot;]/div[@class=&quot;nav-card&quot;]/div[@class=&quot;nav-card-section&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;flex flex-row w-full&quot;]/div[@class=&quot;flex flex-col relative&quot;]/div[@class=&quot;relative w-full&quot;]/div[@class=&quot;absolute z-10 mt-0 min-w-fit bg-white rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none left-0 w-fit max-w-full&quot;]/div[@class=&quot;py-1&quot;]/div[@class=&quot;flex flex-col gap-4 p-4 w-72&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-full-length text-base bold-text&quot;]</value>
+      <webElementGuid>a0204700-410e-4c30-894f-db8fb344f2dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/button[2]</value>
+      <webElementGuid>299ead37-704c-42dc-a171-987f3ca9493d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Añadir habitación'])[1]/following::button[1]</value>
+      <webElementGuid>dc53dcd0-597d-47dd-94fe-1d8a6501fa5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[4]/following::button[2]</value>
+      <webElementGuid>ab7d16d9-bd4a-485f-9faf-7cb142341e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::button[2]</value>
+      <webElementGuid>e88b5a34-78d7-4bcd-9d14-59c0206514ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descubre nuestras recomendaciones para ti'])[1]/preceding::button[3]</value>
+      <webElementGuid>de9ac268-88e5-461d-bb3b-619eebb2314f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Listo']/parent::*</value>
+      <webElementGuid>d8d81950-2a4f-4ca3-b279-42cdd575ad9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button[2]</value>
+      <webElementGuid>203b18fb-4271-4546-a012-33dfc5f5a2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Listo' or . = 'Listo')]</value>
+      <webElementGuid>223c0cb6-5457-4384-9b5a-1f1dca5bb597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

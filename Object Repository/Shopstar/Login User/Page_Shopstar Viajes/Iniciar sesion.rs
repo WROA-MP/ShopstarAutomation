@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>75a8f4de-0188-47e6-afd2-7aeab9750732</webElementGuid>
+      <webElementGuid>38153f5b-63ec-4bd1-a5ce-1620840d3651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>muscle-button btn-type-solid btn-size-medium text-base bold-text</value>
-      <webElementGuid>0066829c-e915-4fd9-b71b-ed8c73c8d227</webElementGuid>
+      <webElementGuid>ad02c69f-8115-4188-89c1-9674b727445e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Iniciar sesión</value>
-      <webElementGuid>fa39171f-2c78-42ea-9367-29a5b5f17d9c</webElementGuid>
+      <webElementGuid>1053eaa6-37f0-4b81-9fd1-827f19722e88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content global-responsive-horizontal-margins  global-max-page-width&quot;]/div[@class=&quot;flex flex-row gap-4 h-full items-center justify-end&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-medium text-base bold-text&quot;]</value>
-      <webElementGuid>78785bf7-129a-44c0-bf64-541f5335680f</webElementGuid>
+      <webElementGuid>91b338ac-b466-47f1-96d2-3459fe9203c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='app']/div/div/div[3]/div/button</value>
-      <webElementGuid>95cd5429-09ba-4d64-afc1-ec3dd6bd5864</webElementGuid>
+      <webElementGuid>dd8abb9e-10d9-4159-b665-16421af3e1e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/preceding::button[1]</value>
-      <webElementGuid>2447a28a-ab19-4447-9d9d-db043d4074e6</webElementGuid>
+      <webElementGuid>c3297d8a-6763-45cd-bc11-98f0e14936ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cusco, Perú'])[1]/preceding::button[2]</value>
-      <webElementGuid>0769a642-077a-45ca-bcb0-17497eae8fbe</webElementGuid>
+      <webElementGuid>8bccae3e-2559-44ae-a9a4-8ef4abd1ddae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
-      <webElementGuid>7d62f30e-ad39-422b-98a4-bbc0716d7b94</webElementGuid>
+      <webElementGuid>11f67c80-3eae-43c5-adfb-6672def5701d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>f43048f8-e5bd-4eed-b93d-ab669da21f46</webElementGuid>
+      <webElementGuid>8671a9dd-bb17-4a9c-b0e7-d9b76057c474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
-      <webElementGuid>b49f7216-f7e8-4e33-af12-68669b76bbd4</webElementGuid>
+      <webElementGuid>662302ff-3674-4c51-8a9f-73fe7d047602</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

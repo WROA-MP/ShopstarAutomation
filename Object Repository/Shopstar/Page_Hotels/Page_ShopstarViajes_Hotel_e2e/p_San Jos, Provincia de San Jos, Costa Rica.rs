@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Iniciar sesin</name>
+   <name>p_San Jos, Provincia de San Jos, Costa Rica</name>
    <tag></tag>
-   <elementGuidId>0b4fb633-0785-447f-b138-bae081ad9f39</elementGuidId>
+   <elementGuidId>20b27faf-ed8a-4176-8d09-3d8e2d7529fa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.muscle-button.btn-type-solid.btn-size-medium.text-base.bold-text</value>
+         <key>XPATH</key>
+         <value>//li[@id='hotels-destination-autocomplete-option-0']/div/div[2]/p</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@class='muscle-button btn-type-solid btn-size-medium text-base bold-text'][contains(.,'Iniciar sesión')])[2]</value>
+         <key>CSS</key>
+         <value>p.font-bold.text-sm</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,79 +22,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>74a399e6-5efb-4771-81ec-ce7213634283</webElementGuid>
+      <value>p</value>
+      <webElementGuid>ac6bf86b-106e-476a-a390-6d410b99117b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>muscle-button btn-type-solid btn-size-medium text-base bold-text</value>
-      <webElementGuid>9d550c72-77ae-47f0-9355-02b510ef9db6</webElementGuid>
+      <value>font-bold text-sm</value>
+      <webElementGuid>17a17904-8c39-43b2-99e5-afc53a22feba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Iniciar sesión</value>
-      <webElementGuid>41c74eb7-19a0-40c1-b2f4-c5d9c56788d7</webElementGuid>
+      <value>San José, Provincia de San José, Costa Rica</value>
+      <webElementGuid>91899462-74a3-42ba-9330-7635a6ae8bc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content global-responsive-horizontal-margins  global-max-page-width&quot;]/div[@class=&quot;flex flex-row gap-4 h-full items-center justify-end&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-medium text-base bold-text&quot;]</value>
-      <webElementGuid>f4a15b2f-843f-48e1-a1b6-eb562ebf042c</webElementGuid>
+      <value>id(&quot;hotels-destination-autocomplete-option-0&quot;)/div[@class=&quot;flex items-center p-2&quot;]/div[2]/p[@class=&quot;font-bold text-sm&quot;]</value>
+      <webElementGuid>1f698138-bfca-4878-a0c3-90916ce11e8e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='app']/div/div/div[3]/div/button</value>
-      <webElementGuid>17e773ae-cb9c-44df-bfbf-283868a8a732</webElementGuid>
+      <value>//li[@id='hotels-destination-autocomplete-option-0']/div/div[2]/p</value>
+      <webElementGuid>a901a252-08a0-4d2f-854c-780e85f76100</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/preceding::button[1]</value>
-      <webElementGuid>7d83dd8c-b90a-4b6e-9272-deef88e0ed09</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Métodos de pago:'])[1]/following::p[1]</value>
+      <webElementGuid>5f0dec05-cffe-470f-b84a-8e6d91b31394</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cusco, Perú'])[1]/preceding::button[2]</value>
-      <webElementGuid>3fef68ee-0b33-4d5e-8116-6cf8e7c96177</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Términos y condiciones'])[1]/following::p[1]</value>
+      <webElementGuid>b26826cc-9cc4-4404-8595-5731550dcda7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
-      <webElementGuid>1e48be21-8e1e-45a1-b883-f6a69d9e5c1a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='San José, Provincia de San José, Costa Rica']/parent::*</value>
+      <webElementGuid>12d366d8-48e8-4e4f-9456-b0ff49ce2d78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>590a0a3e-175c-4594-9dd4-695a913bfa2a</webElementGuid>
+      <value>//li/div/div[2]/p</value>
+      <webElementGuid>eb9505b5-49d0-4816-81db-5b885fe764f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
-      <webElementGuid>e20cbd66-1e26-44d2-8f91-a80c3fc4893f</webElementGuid>
+      <value>//p[(text() = 'San José, Provincia de San José, Costa Rica' or . = 'San José, Provincia de San José, Costa Rica')]</value>
+      <webElementGuid>c0e69e5e-0b21-4bf6-b992-abf469b10a47</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
