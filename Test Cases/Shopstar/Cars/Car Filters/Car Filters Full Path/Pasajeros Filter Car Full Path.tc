@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login User</name>
+   <name>Pasajeros Filter Car Full Path</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e04fa536-ff06-4795-8f63-7bcc5987e379</testCaseGuid>
+   <testCaseGuid>856dbfd7-108b-44d2-a0d2-20c64b362a09</testCaseGuid>
 </TestCaseEntity>

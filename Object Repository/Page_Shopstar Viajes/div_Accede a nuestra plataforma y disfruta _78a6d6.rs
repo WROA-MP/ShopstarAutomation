@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accede a nuestra plataforma y disfruta _78a6d6</name>
+   <tag></tag>
+   <elementGuidId>3b739a22-fd2a-41f3-9c73-e64c771afaf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-:r6:']/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3482706d-464a-491b-be06-e4e1212a2cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col items-center gap-8 w-full md:w-500px</value>
+      <webElementGuid>e1f2623f-aeb1-436c-a626-a71da38b62a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accede a nuestra plataforma y disfruta de miles de opciones para tu viaje.Email *Contraseña *Olvidé mi contraseña¿No tienes una cuenta? Registrate aquíIniciar sesión</value>
+      <webElementGuid>6d2d90eb-7b28-44b0-b42a-634ea63450e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:r6:&quot;)/div[@class=&quot;sm:flex flex-col sm:items-start p-2 h-full overflow-auto&quot;]/div[@class=&quot;mt-3 sm:mt-0 w-full flex flex-col items-center&quot;]/div[@class=&quot;flex flex-col items-center gap-8 w-full md:w-500px&quot;]</value>
+      <webElementGuid>e5b01630-1cae-4a2b-9b13-a253b8b4ea37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r6:']/div[2]/div/div</value>
+      <webElementGuid>50b21aa7-28c4-433b-9b60-f4cb2a008805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Métodos de pago:'])[1]/following::div[18]</value>
+      <webElementGuid>a263c6b7-1ff1-4399-9a33-de30519452c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Términos y condiciones'])[1]/following::div[21]</value>
+      <webElementGuid>e54692ec-c99b-4e81-b87a-1c19dff38151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>36a6d381-85a8-4f50-afc2-0f529a9c9279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Accede a nuestra plataforma y disfruta de miles de opciones para tu viaje.Email *Contraseña *Olvidé mi contraseña¿No tienes una cuenta? Registrate aquíIniciar sesión' or . = 'Accede a nuestra plataforma y disfruta de miles de opciones para tu viaje.Email *Contraseña *Olvidé mi contraseña¿No tienes una cuenta? Registrate aquíIniciar sesión')]</value>
+      <webElementGuid>5d573d57-f92e-42ec-b0d4-82ab4165f9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r5:']/div[2]/div</value>
+      <webElementGuid>6846fcde-4d5c-4ca3-9010-32cdfd94aefe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Métodos de pago:'])[1]/following::div[12]</value>
+      <webElementGuid>c4832a54-1983-4381-9067-f64af488cf4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Términos y condiciones'])[1]/following::div[15]</value>
+      <webElementGuid>da4a5f60-0925-4e60-90c0-f59d3838d3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div</value>
+      <webElementGuid>9da6131a-0475-41fb-8de6-af4ab9a4294f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

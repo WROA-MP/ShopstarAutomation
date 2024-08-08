@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login User</name>
+   <name>Escribir el lugar de devolución</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e04fa536-ff06-4795-8f63-7bcc5987e379</testCaseGuid>
+   <testCaseGuid>545ed402-96c4-40f9-a9b1-eaf32281e087</testCaseGuid>
 </TestCaseEntity>

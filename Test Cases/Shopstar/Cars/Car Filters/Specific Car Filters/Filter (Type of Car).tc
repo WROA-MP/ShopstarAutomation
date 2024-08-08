@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login User</name>
+   <name>Filter (Type of Car)</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e04fa536-ff06-4795-8f63-7bcc5987e379</testCaseGuid>
+   <testCaseGuid>280c50fe-b2a8-4343-9e8a-5777075f2cb9</testCaseGuid>
 </TestCaseEntity>

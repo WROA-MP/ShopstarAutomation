@@ -16,20 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import groovy.time.TimeCategory as TimeCategory
-import java.text.SimpleDateFormat as SimpleDateFormat
-import java.util.Date as Date
-import java.util.Calendar as Calendar
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Shopstar/Login User/Page_Shopstar Viajes/Click Transmision Filter'))
 
-WebUI.navigateToUrl('https://viajes.shopstar.pe/flights')
+WebUI.click(findTestObject('Shopstar/Login User/Page_Shopstar Viajes/Click Transmision Automatico'))
 
-WebUI.click(findTestObject('Object Repository/Page_Shopstar Viajes/Iniciar sesion'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Shopstar Viajes/input_Email_outline-none w-full'), 'arosenstock@musclepoints.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Shopstar Viajes/input_Contrasea_outline-none w-full'), 'Ou+g6Pu2ISkfoGUledpong==')
-
-WebUI.click(findTestObject('Shopstar/Login User/Page_Shopstar Viajes/button_Iniciar sesin'))
+WebUI.click(findTestObject('Shopstar/Login User/Page_Shopstar Viajes/Click Aplicar Filtro'))
 

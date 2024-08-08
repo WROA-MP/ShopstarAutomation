@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login User</name>
+   <name>Filter (Transmision)</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e04fa536-ff06-4795-8f63-7bcc5987e379</testCaseGuid>
+   <testCaseGuid>fdeae459-bd4c-461a-a9f6-b0acf79fb8e3</testCaseGuid>
 </TestCaseEntity>

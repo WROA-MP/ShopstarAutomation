@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Iniciar sesin</name>
+   <name>div_Autos</name>
    <tag></tag>
-   <elementGuidId>0b4fb633-0785-447f-b138-bae081ad9f39</elementGuidId>
+   <elementGuidId>94aa57b9-4ebb-46fb-8538-fe68d156da0c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@class='muscle-button btn-type-solid btn-size-medium text-base bold-text'][contains(.,'Iniciar sesión')])[2]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>button.muscle-button.btn-type-solid.btn-size-medium.text-base.bold-text</value>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div[2]/div/div/div[3]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,79 +22,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e61fe4d3-98e4-4c76-bb13-6f41118ddb3a</webElementGuid>
+      <value>div</value>
+      <webElementGuid>d3da3ceb-547e-41b8-9964-cea80fc52c8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>muscle-button btn-type-solid btn-size-medium text-base bold-text</value>
-      <webElementGuid>eada3b4c-6ffd-4693-8bff-35a59a2a8164</webElementGuid>
+      <value>labeled-icon-button clickable flex-col</value>
+      <webElementGuid>f7743c5a-9659-48aa-be89-515b455a6632</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Iniciar sesión</value>
-      <webElementGuid>71647037-d979-4fbd-bdf7-1c150acab42d</webElementGuid>
+      <value>Autos</value>
+      <webElementGuid>318ce0c5-9555-426e-8e07-c6ed50e3f074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content global-responsive-horizontal-margins  global-max-page-width&quot;]/div[@class=&quot;flex flex-row gap-4 h-full items-center justify-end&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-medium text-base bold-text&quot;]</value>
-      <webElementGuid>5256a38b-2947-46d6-9e10-b501f8ba3ad9</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;nav-card-container global-responsive-horizontal-paddings&quot;]/div[@class=&quot;nav-card&quot;]/div[@class=&quot;nav-card-tabs nav-card-section&quot;]/div[@class=&quot;nav-card-tab&quot;]/div[@class=&quot;labeled-icon-button clickable flex-col&quot;]</value>
+      <webElementGuid>c2b89285-9b3d-44e8-8142-91cf7da1110d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='app']/div/div/div[3]/div/button</value>
-      <webElementGuid>a96ea03b-28b7-41f2-a88b-2bd68df34173</webElementGuid>
+      <value>//main[@id='app']/div[2]/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>91f4c871-e399-4413-8f4b-298a8a0b4ad8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/preceding::button[1]</value>
-      <webElementGuid>74e1b01a-367a-4cdf-a7e7-d8b5325e392d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alojamientos'])[1]/following::div[2]</value>
+      <webElementGuid>2777f1e0-5b36-4aad-b8fb-f619ed01cac8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cusco, Perú'])[1]/preceding::button[2]</value>
-      <webElementGuid>8f02432f-e89a-4486-86a3-acc644dedd01</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vuelos'])[1]/following::div[6]</value>
+      <webElementGuid>3cc0f667-3332-4da1-9bbf-66beeb2fee45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
-      <webElementGuid>8b64767e-38b0-4d29-bc9d-7511cc2e3de0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ida y Vuelta'])[1]/preceding::div[4]</value>
+      <webElementGuid>28765346-7a8f-406b-8924-57841283c7e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>5169347d-82f4-42e5-a8d6-192d1f66955e</webElementGuid>
+      <value>//div[2]/div/div/div[3]/div</value>
+      <webElementGuid>a2ee2478-54c7-4adc-b932-deb0c5a5e270</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
-      <webElementGuid>7e8fd161-c6c2-4756-858c-41b2489fb691</webElementGuid>
+      <value>//div[(text() = 'Autos' or . = 'Autos')]</value>
+      <webElementGuid>dd8296f3-8cb6-4ab8-b5af-057437df57c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

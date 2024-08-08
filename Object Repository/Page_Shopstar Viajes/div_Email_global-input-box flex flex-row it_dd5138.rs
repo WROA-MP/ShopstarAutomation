@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email_global-input-box flex flex-row it_dd5138</name>
+   <tag></tag>
+   <elementGuidId>e51248eb-37d0-41fe-9bf9-2e5f45c6ffdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-:r6:']/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>62a311f0-8c41-4e03-8b32-5204a3c6fceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>global-input-box flex flex-row items-center</value>
+      <webElementGuid>7353619f-7e1f-487f-8026-e2e081900503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:r6:&quot;)/div[@class=&quot;sm:flex flex-col sm:items-start p-2 h-full overflow-auto&quot;]/div[@class=&quot;mt-3 sm:mt-0 w-full flex flex-col items-center&quot;]/div[@class=&quot;flex flex-col items-center gap-8 w-full md:w-500px&quot;]/div[@class=&quot;flex flex-col gap-4 w-full md:w-96&quot;]/div[@class=&quot;global-input w-full&quot;]/div[@class=&quot;global-input-box flex flex-row items-center&quot;]</value>
+      <webElementGuid>58d3ceb9-31d4-4ed9-9207-ad7fd14e1522</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r6:']/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>bc2819c1-f158-4984-9c11-dc5de46e689e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña *'])[1]/following::div[1]</value>
+      <webElementGuid>f85f10bf-880d-461e-9a90-25d571db057d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email *'])[1]/following::div[3]</value>
+      <webElementGuid>f8faf1ea-a7e2-43b9-9268-66b82338a66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Olvidé mi contraseña'])[1]/preceding::div[2]</value>
+      <webElementGuid>880bda04-634b-4f2c-a8ab-c73f3168f8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿No tienes una cuenta?'])[1]/preceding::div[2]</value>
+      <webElementGuid>6cbb5a58-d581-4c15-b5b2-93e03b254d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>c9ce8601-9b31-4c01-a885-8c09807e080f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r6:']/div[2]/div/div/div/div/div</value>
+      <webElementGuid>12bd9a6d-10d0-4d4c-96b5-2928c016d584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email *'])[1]/following::div[1]</value>
+      <webElementGuid>290e0b4b-1a03-4702-aa3b-fd695e27a1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Métodos de pago:'])[1]/following::div[21]</value>
+      <webElementGuid>6d665d0c-3357-41d6-a078-fb9cc8e0ab6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña *'])[1]/preceding::div[1]</value>
+      <webElementGuid>a5ae0e9f-2ee8-4303-9b71-b425ff831ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Olvidé mi contraseña'])[1]/preceding::div[4]</value>
+      <webElementGuid>4a1f227b-045d-46ec-8f33-985db6c469ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>d753a7eb-c3b2-4b4e-a1a4-a872e4e6ddd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

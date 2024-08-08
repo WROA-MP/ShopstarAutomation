@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Search hotel with 2 rooms</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>2b181902-0cb5-4bc5-91dc-1473b375057e</testCaseGuid>
-</TestCaseEntity>
