@@ -3,15 +3,15 @@
    <description></description>
    <name>svg</name>
    <tag></tag>
-   <elementGuidId>122aab9d-428f-48d8-89ed-6b06b7372e0e</elementGuidId>
+   <elementGuidId>1513a297-8434-4c8e-b2ee-6dc01ed92314</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Alojamiento'])[1]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Precio más bajo'])[1]/following::*[name()='svg'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.MuiAccordionSummary-expandIconWrapper.css-1fx8m19 > svg</value>
+         <value>div.muscle-select.text-sm.h-fit.clickable > svg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>6fa8bbc4-48fe-4d7b-af47-f5b4d50c02ce</webElementGuid>
+      <webElementGuid>a3e7c333-10e2-4948-932b-8793de69c0e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>c9743127-67a6-4c0b-b077-fb68b20b24d0</webElementGuid>
+      <webElementGuid>d95aaf9e-10c5-4055-ad50-4fe816ef4c09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>aa308aa1-f285-4814-8caa-5cb6ad705f8b</webElementGuid>
+      <webElementGuid>28a2db83-ef5b-401d-bf9c-9a741a5f7771</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>cc7b51ef-1623-4562-bcc6-1f5528c9ca0a</webElementGuid>
+      <webElementGuid>d70283dd-686a-462f-b42c-c0a764604e16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>1.5</value>
-      <webElementGuid>8eaf6b62-ffe7-495d-8b53-537f05b5a025</webElementGuid>
+      <webElementGuid>8fddc6c1-287f-46ac-95a3-d41c9a9b0d72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,54 +63,54 @@
       <name>height</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>e81e6380-e9a3-4646-970b-4fedb4eceb2e</webElementGuid>
+      <webElementGuid>66ad537c-65c9-4358-8358-1d97dcc8cfb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>stroke</name>
       <type>Main</type>
-      <value>currentColor</value>
-      <webElementGuid>bece5f1f-3fa3-4daa-8207-7d2b5de3e594</webElementGuid>
+      <value>#7C7F78</value>
+      <webElementGuid>e9be4579-0412-443a-aa29-3579821d6671</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;hidden md:flex flex-col&quot;]/div[@class=&quot;flex flex-col gap-4 w-full&quot;]/div[@class=&quot;flex flex-col gap-2 min-w-[250px]&quot;]/div[@class=&quot;border-t border-neutral-100 w-full&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded MuiAccordion-gutters css-1jpy9ai&quot;]/div[@class=&quot;MuiButtonBase-root MuiAccordionSummary-root MuiAccordionSummary-gutters css-cndd1p&quot;]/div[@class=&quot;MuiAccordionSummary-expandIconWrapper css-1fx8m19&quot;]/svg[1]</value>
-      <webElementGuid>38595576-7f27-4d92-8edc-95a2823863db</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;flex-1 flex flex-col gap-4&quot;]/div[@class=&quot;flex flex-col gap-4 w-full h-fit&quot;]/div[@class=&quot;flex flex-row justify-between items-center&quot;]/div[@class=&quot;relative flex flex-col outline-none w-fit&quot;]/div[@class=&quot;muscle-select text-sm h-fit clickable&quot;]/svg[1]</value>
+      <webElementGuid>aeebcdf3-51d0-48a8-a530-cba0e67acc59</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Alojamiento'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>2bad1cb8-d481-432d-985a-55fe9bb927e4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Precio más bajo'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>f316f48c-9fc4-44df-a9b1-dfe9fd376798</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtrar por'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>6f898202-c82c-4125-90bd-94b1797d3764</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ordenar por'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>0c4a5e63-c9ca-48d7-a13b-9fb517503e07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estrellas'])[1]/preceding::*[name()='svg'][8]</value>
-      <webElementGuid>babd1e6d-b505-4f7c-8787-9dd30f2a3f5b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selina San Jose - Hostel'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>6fcb901a-3050-4699-8c3f-a8c9df3d4b86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar'])[1]/preceding::*[name()='svg'][15]</value>
-      <webElementGuid>ebf5c6f7-37f0-4917-9f51-d3b043ddef7b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ave. 9, Calles 13 y 15, San José, 10101'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>0f98b4f2-1a9f-4cfc-af86-0ecf9a98a376</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

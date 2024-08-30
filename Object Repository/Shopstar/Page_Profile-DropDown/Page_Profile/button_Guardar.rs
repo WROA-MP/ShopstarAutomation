@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Guardar</name>
+   <tag></tag>
+   <elementGuidId>07d29e8b-a519-4ede-a8b5-2cceba371e27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.muscle-button.btn-type-solid.btn-size-small.text-base.bold-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c0544c17-5c61-4d53-8a74-15b6d0b139ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>muscle-button btn-type-solid btn-size-small text-base bold-text</value>
+      <webElementGuid>168dafed-6e31-4a49-823d-a4e65a646654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guardar</value>
+      <webElementGuid>b55b7ec3-bd7f-40ea-8b8e-fa61389f5faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;hidden md:flex&quot;]/div[@class=&quot;w-full flex flex-col gap-8&quot;]/div[@class=&quot;w-full flex flex-col gap-4&quot;]/div[@class=&quot;w-full flex flex-col gap-4&quot;]/div[@class=&quot;w-full flex flex-col gap-4 self-center px-0 sm:px-36&quot;]/div[@class=&quot;flex justify-start items-center gap-4 self-center&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-small text-base bold-text&quot;]</value>
+      <webElementGuid>f49b22c8-5661-4c6f-965b-e302ea425705</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>e3319c39-a048-40a7-b417-905e0bb3b8d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::button[1]</value>
+      <webElementGuid>7872484a-6329-4967-8f57-bc19644d4437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar contraseña'])[1]/following::button[2]</value>
+      <webElementGuid>94f2021f-929b-4b72-b925-f8aca97e3f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[3]/preceding::button[1]</value>
+      <webElementGuid>08549957-c95f-4722-907f-627b8a9dcde6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Hola Armando!'])[2]/preceding::button[1]</value>
+      <webElementGuid>8e97535f-589e-45ec-9854-44efd2dfdfda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guardar']/parent::*</value>
+      <webElementGuid>58bfbdac-39cd-4c8d-afca-ca8c7ff2121e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>4581b5a0-59d2-41f3-a0e8-28bb6734751d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Guardar' or . = 'Guardar')]</value>
+      <webElementGuid>5c1962a1-bd66-4683-94ff-026a0378cc49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

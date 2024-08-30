@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Gnero_Female</name>
+   <tag></tag>
+   <elementGuidId>4e9a54db-8f12-4df3-ab29-a2579d135665</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app&quot;]/div[2]/div[2]/div/div[2]/div[2]/div/div[1]/section[2]/div[1]/div/div[2]/div[1]/div[1]/span/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.PrivateSwitchBase-input.css-1m9pwf3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>24841fdf-d569-4137-a976-491d2417fdb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PrivateSwitchBase-input css-1m9pwf3</value>
+      <webElementGuid>c09aa465-830d-40d0-9f03-23cd69c98d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>5217e0e2-6e2f-4039-9f00-d3e71fb2930c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;hidden md:flex&quot;]/div[@class=&quot;w-full flex flex-col gap-8&quot;]/div[@class=&quot;w-full flex flex-col gap-4&quot;]/div[@class=&quot;w-full flex flex-col gap-4&quot;]/div[@class=&quot;w-full flex flex-col gap-4 self-center px-0 sm:px-36&quot;]/div[@class=&quot;flex flex-col gap-6 pt-12&quot;]/section[@class=&quot;ww-full flex flex-col gap-6 md:flex-row md:gap-11&quot;]/div[@class=&quot;w-full text-sm&quot;]/div[@class=&quot;global-input&quot;]/div[@class=&quot;flex flex-row w-full flex-wrap  gap-4 overflow-auto&quot;]/div[@class=&quot;flex
+                    flex-row
+                    gap-1
+                    
+                    items-center&quot;]/div[@class=&quot;h-fit&quot;]/span[@class=&quot;MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary MuiRadio-root MuiRadio-colorPrimary css-yjtr5y&quot;]/input[@class=&quot;PrivateSwitchBase-input css-1m9pwf3&quot;]</value>
+      <webElementGuid>606488b5-eaed-4af7-81de-20e627f2b840</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='radio']</value>
+      <webElementGuid>cf02f4e3-74e7-4bf3-8176-28d778360560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[2]/div/div[2]/div[2]/div/div/section[2]/div/div/div[2]/div/div/span/input</value>
+      <webElementGuid>6d6ad585-90de-44a8-a348-c3256e3ff2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/input</value>
+      <webElementGuid>e4c8980e-48e6-4c6e-9fc2-9ec7cc966356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio']</value>
+      <webElementGuid>a770ac38-9534-4ba2-bfe1-c9ba08864881</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

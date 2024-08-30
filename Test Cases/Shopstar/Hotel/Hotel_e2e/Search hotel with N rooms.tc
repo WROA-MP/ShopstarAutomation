@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search hotel with N rooms</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b64a6c2-1a46-4e1d-89b0-db4873d11431</testCaseGuid>
+</TestCaseEntity>

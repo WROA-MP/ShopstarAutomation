@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ordenar porPrecio ms alto</name>
+   <tag></tag>
+   <elementGuidId>8b9ccb83-2465-4672-83cc-8ea20d50234e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div/div[2]/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.muscle-select.text-sm.h-fit.clickable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dba49d7-f0be-4495-b684-6f914147fd71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>muscle-select text-sm h-fit clickable</value>
+      <webElementGuid>20009eb0-675d-439f-8351-b67c3feae8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1b4efe30-eef7-4d50-9603-ba0903856ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ordenar porPrecio más alto</value>
+      <webElementGuid>adc69ca2-d448-40c5-9c8c-028a8b5cd4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;flex-1 flex flex-col gap-4&quot;]/div[@class=&quot;flex flex-col gap-4 w-full h-fit&quot;]/div[@class=&quot;flex flex-row justify-between items-center&quot;]/div[@class=&quot;relative flex flex-col outline-none w-fit&quot;]/div[@class=&quot;muscle-select text-sm h-fit clickable&quot;]</value>
+      <webElementGuid>16076b47-feb9-416a-9299-3ad7a993a13c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div/div[2]/div[3]/div/div/div</value>
+      <webElementGuid>cccfa18d-1fb6-490a-9a36-cb9f8a7fb83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar'])[2]/following::div[4]</value>
+      <webElementGuid>71ceb5ee-4b70-428a-93ba-0903b5574135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estrellas'])[2]/following::div[29]</value>
+      <webElementGuid>33b97785-984d-42a0-948f-dd22c3d39602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div</value>
+      <webElementGuid>43735b04-e92f-44ce-9157-6c03df1b6425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ordenar porPrecio más alto' or . = 'Ordenar porPrecio más alto')]</value>
+      <webElementGuid>5d5ee3fb-1dcb-48d6-9952-38ce525ef8c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

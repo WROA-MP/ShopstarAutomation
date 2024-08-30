@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fill Checkout Form N rooms</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bdd719d3-88b5-4f85-83b7-669c4269d09f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>752e3122-f11b-475f-953e-0f059c187f2e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9481b706-a7d5-4ee3-98d7-ca1c0b327bd8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Juan'</defaultValue>
+      <description></description>
+      <id>752e3122-f11b-475f-953e-0f059c187f2e</id>
+      <masked>true</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>'Perez'</defaultValue>
+      <description></description>
+      <id>9481b706-a7d5-4ee3-98d7-ca1c0b327bd8</id>
+      <masked>false</masked>
+      <name>apellido</name>
+   </variable>
+</TestCaseEntity>

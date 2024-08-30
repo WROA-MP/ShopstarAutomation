@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Hotel and rooms Gest User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f313c785-645d-4f17-822c-8ea0bf5bee9d</testCaseGuid>
+</TestCaseEntity>

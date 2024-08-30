@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Guest User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52ddaae2-fc0c-4fcc-bbf6-c54e5c5e01fb</testCaseGuid>
+</TestCaseEntity>

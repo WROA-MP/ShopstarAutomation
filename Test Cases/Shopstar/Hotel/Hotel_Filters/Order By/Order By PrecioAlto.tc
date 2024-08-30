@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Filter by type</name>
+   <name>Order By PrecioAlto</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2eef7104-6794-4839-b5c1-b168792e788f</testCaseGuid>
+   <testCaseGuid>8e61768f-f25c-4da8-9e6d-3339c148d9d4</testCaseGuid>
 </TestCaseEntity>

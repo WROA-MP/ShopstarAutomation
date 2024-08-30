@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_User (text)</name>
+   <tag></tag>
+   <elementGuidId>b135b7cb-d07c-4eb2-ae19-88b95a38065f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.paragraph-medium</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/div[3]/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0d5672f6-6e3b-4518-bf84-91a1943b1f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paragraph-medium</value>
+      <webElementGuid>1adea3e9-54a6-4baf-a238-e59c44041a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Armando</value>
+      <webElementGuid>3f415db5-df25-40b7-adfc-39aa60fadc21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content global-responsive-horizontal-margins  global-max-page-width&quot;]/div[@class=&quot;flex flex-row gap-4 h-full items-center justify-end&quot;]/div[@class=&quot;header-element header-account-settings min-w-max&quot;]/div[1]/div[@class=&quot;header-btn clickable&quot;]/div[@class=&quot;clickable flex-row items-center gap-1 hidden lg:flex text-white&quot;]/p[@class=&quot;paragraph-medium&quot;]</value>
+      <webElementGuid>4dcb31c9-f685-4048-a90e-4e0fbcc885e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/div[3]/div/div/div/div[2]/p</value>
+      <webElementGuid>c1b16f81-956e-42d3-9257-f6dc460eff43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/following::p[1]</value>
+      <webElementGuid>297747aa-feb0-4954-81f0-d1411bd9bdcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bienvenid@, Armando! Descubre las mejores opciones para ti con tus 0 Millas Interbank Benefit.'])[1]/following::p[1]</value>
+      <webElementGuid>a8d07bfa-7096-4e03-be1e-6fe123348d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desierto de Ica, Perú'])[1]/preceding::p[2]</value>
+      <webElementGuid>714d7030-76b0-4534-9630-94f3956b942a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alquila tu auto'])[1]/preceding::p[2]</value>
+      <webElementGuid>e30655d6-a3bb-4b15-9be0-b7377db98061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Armando']/parent::*</value>
+      <webElementGuid>21e904a1-f69e-476f-98ce-8bd3a09bca11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>e0d885e1-40f7-4e79-8b3e-e39d7cb14520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Armando' or . = 'Armando')]</value>
+      <webElementGuid>b36c4d00-1f29-4c3b-bbd6-f441ad3642ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

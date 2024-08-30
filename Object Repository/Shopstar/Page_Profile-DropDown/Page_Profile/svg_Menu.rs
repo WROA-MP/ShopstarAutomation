@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Menu</name>
+   <tag></tag>
+   <elementGuidId>cd7a4d0d-9dab-475d-a4f5-76d9d966e5a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>63042309-3111-4a72-88e8-534160937ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>9e730827-dca4-4f80-aa1c-43643451f4e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>84140aa4-f03a-46a4-b3bd-8f22faae32f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>26ed2329-4ec4-4459-9bd8-3592bffdc778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1.5</value>
+      <webElementGuid>cef2d441-0aab-415e-96b1-8cf919216230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>5f694043-6cfa-4f85-89a2-b7be9d7b7f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>090b23c9-405a-4d30-bae8-8b778f907381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content global-responsive-horizontal-margins  global-max-page-width&quot;]/div[@class=&quot;flex flex-row gap-4 h-full items-center justify-end&quot;]/div[@class=&quot;header-element header-account-settings min-w-max&quot;]/div[1]/div[@class=&quot;header-btn clickable&quot;]/div[@class=&quot;clickable flex-row items-center gap-1 hidden lg:flex text-white&quot;]/svg[1]</value>
+      <webElementGuid>f836af41-0d39-42b3-a24c-c5ca1aa3ee86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a02de21c-b0bd-45c8-9479-add288ba13e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bienvenid@, Armando! Descubre las mejores opciones para ti con tus 0 Millas Interbank Benefit.'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8fea012b-87ea-4e2a-8aed-a4bdd1595636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cusco, Perú'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>af28ccb4-590c-4a64-9ff8-fc76562d722d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reserva tu vuelo'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>dcfbeaf3-835b-4275-9b94-33dc34d33b2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

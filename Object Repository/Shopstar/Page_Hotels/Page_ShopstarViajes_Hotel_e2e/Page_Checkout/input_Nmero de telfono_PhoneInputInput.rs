@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nmero de telfono_PhoneInputInput</name>
+   <tag></tag>
+   <elementGuidId>13483572-86e5-419e-8f66-901259ea681e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.PhoneInputInput</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='+506 8']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8e701685-69d3-4425-b4a6-fd5f4a10042a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>77fd8adf-ab50-4beb-9f78-e1ee8fa7b55e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PhoneInputInput</value>
+      <webElementGuid>1f6499eb-0ed5-44cf-b56c-17746a2d21d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>586ce19c-dc35-4074-9408-2baa492366cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>+506 8</value>
+      <webElementGuid>58aebd59-81ab-48c9-b7f1-f77d4449ea5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;flex flex-col md:flex-row md:flex-wrap gap-12 w-full&quot;]/div[@class=&quot;flex-[2] w-full md:min-w-[400px] flex flex-col gap-4&quot;]/div[@class=&quot;w-full h-ful&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded Mui-expanded MuiAccordion-gutters css-jj6dht&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;MuiAccordion-region&quot;]/div[@class=&quot;MuiAccordionDetails-root css-u7qq7e&quot;]/div[@class=&quot;flex flex-col gap-y-4 px-4 pb-4&quot;]/div[@class=&quot;global-input&quot;]/div[@class=&quot;global-input-box error&quot;]/div[@class=&quot;PhoneInput PhoneInput--focus&quot;]/input[@class=&quot;PhoneInputInput&quot;]</value>
+      <webElementGuid>432a37ee-0cac-403d-829b-ab9059668400</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='+506 8']</value>
+      <webElementGuid>2a2f27e1-8b97-4dc6-a79b-ee82d6ea9a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[3]/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div/div[6]/div[2]/div/input</value>
+      <webElementGuid>44d8478f-3c4f-451d-af58-f8a0c8b083e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/input</value>
+      <webElementGuid>a58cad28-a6aa-4177-abbe-0ddbdac4d037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel']</value>
+      <webElementGuid>8f556fdb-7c4d-45b6-9932-c5777503f83e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reservar</name>
+   <tag></tag>
+   <elementGuidId>af7a7695-b519-44ad-9b58-44119a6193d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.muscle-button.btn-type-solid.btn-size-full-length.text-base.bold-text.mt-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[3]/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3de9590b-14e4-45d0-8de1-13820255c3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>muscle-button btn-type-solid btn-size-full-length text-base bold-text mt-4</value>
+      <webElementGuid>e69663bf-3803-4b68-ae6c-e3b209f7f3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reservar</value>
+      <webElementGuid>295d8e54-6d7a-4579-bbfc-78f0780684d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;flex flex-col md:flex-row md:flex-wrap gap-12 w-full&quot;]/div[@class=&quot;global-card p-4 md:p-8 w-full h-fit md:min-w-[420px] gap-4 flex flex-col flex-1&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-full-length text-base bold-text mt-4&quot;]</value>
+      <webElementGuid>90c7fdfd-3fdf-4ab7-98a3-a3b3e6c2ce82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[3]/div[2]/div[2]/button</value>
+      <webElementGuid>55d054fd-1709-45fd-971a-cde169a127b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Millas Benefit'])[1]/following::button[1]</value>
+      <webElementGuid>b8e41764-d7fa-4c2b-bb5a-4fb041628b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canjéalo por'])[1]/following::button[1]</value>
+      <webElementGuid>be92b0f4-d0d5-485e-b029-e803d2dcc1f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Estamos aquí para ayudarte!'])[1]/preceding::button[1]</value>
+      <webElementGuid>4e7f2b1b-9940-4851-80f3-e8530ed30062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Términos y condiciones'])[1]/preceding::button[4]</value>
+      <webElementGuid>b75c97a7-e55e-4a58-88d8-7d3670a621f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reservar']/parent::*</value>
+      <webElementGuid>93999350-0ddf-4331-95ec-09f3c0f1ee6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>c14247c7-7803-487d-9946-5ebc4965971d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Reservar' or . = 'Reservar')]</value>
+      <webElementGuid>b8e41bc4-5875-4530-a805-4358519f4d1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

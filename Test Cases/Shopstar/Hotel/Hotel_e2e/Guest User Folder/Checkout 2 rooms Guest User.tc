@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout 2 rooms Guest User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccf6a4e4-1e3b-4a3c-9ec1-c3ccad72db53</testCaseGuid>
+</TestCaseEntity>

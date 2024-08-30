@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>e2e N rooms</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a62dd68-aa64-46d0-9f84-1106869ae4cd</testCaseGuid>
+</TestCaseEntity>

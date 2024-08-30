@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Direccin_global-input-box</name>
+   <tag></tag>
+   <elementGuidId>421425a1-5408-49ce-8c48-f894992f4ff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div[2]/div/div[2]/div[2]/div/div/section[3]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13b8a1b5-cf57-450d-a552-27bfc1826608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>global-input-box</value>
+      <webElementGuid>397c083b-9922-4916-8d8b-7c60162e4bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;hidden md:flex&quot;]/div[@class=&quot;w-full flex flex-col gap-8&quot;]/div[@class=&quot;w-full flex flex-col gap-4&quot;]/div[@class=&quot;w-full flex flex-col gap-4&quot;]/div[@class=&quot;w-full flex flex-col gap-4 self-center px-0 sm:px-36&quot;]/div[@class=&quot;flex flex-col gap-6 pt-12&quot;]/section[@class=&quot;w-full flex flex-col gap-6 md:flex-row md:gap-11&quot;]/div[@class=&quot;w-full text-sm&quot;]/div[@class=&quot;global-input&quot;]/div[@class=&quot;global-input-box&quot;]</value>
+      <webElementGuid>ffdf4232-0c56-44c7-bf55-e4b1c1129803</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[2]/div/div[2]/div[2]/div/div/section[3]/div[2]/div/div[2]</value>
+      <webElementGuid>c6de890a-223e-4965-95b8-c1bfebf5b439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dirección *'])[1]/following::div[1]</value>
+      <webElementGuid>6368c1fc-3f91-4c36-a76b-ac04c8460fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casad@'])[1]/following::div[5]</value>
+      <webElementGuid>f56ef4c0-1989-4c83-af83-4d1e7e5e96a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País *'])[1]/preceding::div[1]</value>
+      <webElementGuid>1235f2cf-018e-4c78-954f-3b18d1e10d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Costa Rica'])[1]/preceding::div[2]</value>
+      <webElementGuid>353480cc-df26-4ba3-a739-8585927f5ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div[2]/div/div[2]</value>
+      <webElementGuid>2d81bb5d-33cb-423b-805e-67aa03a11dc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

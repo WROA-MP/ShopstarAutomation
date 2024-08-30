@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Order By Recomendado</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd33144e-cc0e-4bad-b17f-050870452b4e</testCaseGuid>
+</TestCaseEntity>

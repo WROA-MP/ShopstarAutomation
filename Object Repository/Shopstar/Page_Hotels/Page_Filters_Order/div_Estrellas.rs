@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Estrellas</name>
+   <tag></tag>
+   <elementGuidId>189b7add-7ec2-48d7-a893-8413466d3cb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div/div/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiAccordionSummary-content.Mui-expanded.MuiAccordionSummary-contentGutters.css-l0jafl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46431e05-b6ff-4428-b816-43a8896bee89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAccordionSummary-content Mui-expanded MuiAccordionSummary-contentGutters css-l0jafl</value>
+      <webElementGuid>b32622a9-6169-4aad-9e50-af7d4910290e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Estrellas</value>
+      <webElementGuid>3d5fc941-d8c7-4592-be44-cc994d03451e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;hidden md:flex flex-col&quot;]/div[@class=&quot;flex flex-col gap-4 w-full&quot;]/div[@class=&quot;flex flex-col gap-2 min-w-[250px]&quot;]/div[@class=&quot;border-t border-neutral-100 w-full&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded Mui-expanded MuiAccordion-gutters css-1jpy9ai&quot;]/div[@class=&quot;MuiButtonBase-root MuiAccordionSummary-root Mui-expanded MuiAccordionSummary-gutters css-cndd1p&quot;]/div[@class=&quot;MuiAccordionSummary-content Mui-expanded MuiAccordionSummary-contentGutters css-l0jafl&quot;]</value>
+      <webElementGuid>76ac7191-e9d3-4da0-883e-ca6022ab49ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div/div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>f2d89b03-745f-4817-9efe-810a1905e46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Alojamiento'])[1]/following::div[31]</value>
+      <webElementGuid>1d35339c-7241-4ec7-9ac7-d578598edc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtrar por'])[1]/following::div[36]</value>
+      <webElementGuid>429aeb14-f463-4300-ae89-e24690ef33e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar'])[1]/preceding::div[27]</value>
+      <webElementGuid>9900c56b-2c9d-44c2-96c9-1de99ac0b025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>dbb93f7b-0dfd-480f-9a4e-5cb87bd7d244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Estrellas' or . = 'Estrellas')]</value>
+      <webElementGuid>c042446b-4190-4bc5-9d6b-4cfd2ded56c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

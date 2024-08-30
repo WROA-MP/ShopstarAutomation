@@ -6,12 +6,12 @@
    <elementGuidId>0ffda7c7-b7b7-4ac2-b5ff-d8f14d570fdc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[8]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@name=''])[2]</value>
+         <key>CSS</key>
+         <value>div.MuiCollapse-root.MuiCollapse-vertical.MuiCollapse-entered.css-c4sutr > div.MuiCollapse-wrapper.MuiCollapse-vertical.css-hboir5 > div.MuiCollapse-wrapperInner.MuiCollapse-vertical.css-8atqhb > div.MuiAccordion-region > div.MuiAccordionDetails-root.css-u7qq7e > div.flex.flex-col > div.py-1 > div.flex.flex-row.gap-1.items-center > span.MuiButtonBase-root.MuiCheckbox-root.MuiCheckbox-colorPrimary.MuiCheckbox-sizeMedium.PrivateSwitchBase-root.MuiCheckbox-root.MuiCheckbox-colorPrimary.MuiCheckbox-sizeMedium.MuiCheckbox-root.MuiCheckbox-colorPrimary.MuiCheckbox-sizeMedium.css-yrm4yl > input.PrivateSwitchBase-input.css-1m9pwf3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>50b85b56-4b7f-4ee0-bc09-d05ad1f0e569</webElementGuid>
+      <webElementGuid>d8471984-adee-4977-acfd-15bc4731a2c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>outline-none w-full</value>
-      <webElementGuid>5fcc4b09-fcf8-4e73-aecf-128369c992de</webElementGuid>
+      <value>PrivateSwitchBase-input css-1m9pwf3</value>
+      <webElementGuid>b977f714-81de-441e-834b-4fa237fbcb0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,27 +46,171 @@
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>39885ab1-3e7e-4b4f-a8b0-88ebbc35d733</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>7c052600-1fc8-4442-9d74-53e4f811e6e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-dialog-panel-:r6:&quot;)/div[@class=&quot;sm:flex flex-col sm:items-start p-2 h-full overflow-auto&quot;]/div[@class=&quot;mt-3 sm:mt-0 w-full flex flex-col items-center&quot;]/div[@class=&quot;flex flex-col items-center gap-8 w-full md:w-500px&quot;]/div[@class=&quot;flex flex-col gap-4 w-full md:w-96&quot;]/div[@class=&quot;global-input w-full&quot;]/div[@class=&quot;global-input-box flex flex-row items-center&quot;]/input[@class=&quot;outline-none w-full&quot;]</value>
-      <webElementGuid>42e026d1-9a84-404c-991d-6ed31d9ac773</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;hidden md:flex flex-col&quot;]/div[@class=&quot;flex flex-col gap-4 w-full&quot;]/div[@class=&quot;flex flex-col gap-2 min-w-[250px]&quot;]/div[@class=&quot;border-t border-neutral-100 w-full&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded Mui-expanded MuiAccordion-gutters css-1jpy9ai&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;MuiAccordion-region&quot;]/div[@class=&quot;MuiAccordionDetails-root css-u7qq7e&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;py-1&quot;]/div[@class=&quot;flex flex-row gap-1 items-center&quot;]/span[@class=&quot;MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary MuiCheckbox-sizeMedium PrivateSwitchBase-root MuiCheckbox-root MuiCheckbox-colorPrimary MuiCheckbox-sizeMedium MuiCheckbox-root MuiCheckbox-colorPrimary MuiCheckbox-sizeMedium css-yrm4yl&quot;]/input[@class=&quot;PrivateSwitchBase-input css-1m9pwf3&quot;]</value>
+      <webElementGuid>1a828606-2299-4ea7-9068-44a9bcf79e84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>A</value>
-      <webElementGuid>56e77631-3618-4086-b9bd-f3896c55863a</webElementGuid>
+      <value>+506 8</value>
+      <webElementGuid>6e9f5b93-b453-44f4-8b59-06fd52ea3aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>f7b5e32d-a37e-42d0-ae64-2ecc6e35126e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-indeterminate</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ed99e5fa-195c-4f08-b628-204b4e910671</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[8]</value>
+      <webElementGuid>78b621c8-6760-414f-86a7-379d7c181b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div/span/input</value>
+      <webElementGuid>02dfc336-28f5-48c7-9887-cea5aa0f42d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div/span/input</value>
+      <webElementGuid>0f64aa49-d833-4e69-80b2-66fb733c9451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>a5024fac-5c3d-430e-af2a-5467b6554059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name=''])[6]</value>
+      <webElementGuid>c4af2222-c92c-4bca-b11d-1c7dd1c75388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[3]/div[2]/div/div/div[3]/div/div[2]/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>eaf64e5c-b7a5-4de8-ae25-8af9ddbc04a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>19976193-b53e-4bec-b725-cd781bbcc599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>504c9650-52cf-4a0f-b900-caa1d768071b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='+506 8']</value>
+      <webElementGuid>defecb20-8df4-4dc6-a74b-0db949685348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[3]/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div/div[6]/div[2]/div/input</value>
+      <webElementGuid>9189a6e1-904e-4083-9030-5fcde2fe859d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/input</value>
+      <webElementGuid>be374804-6485-49a8-ab51-b3def16e1ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel']</value>
+      <webElementGuid>2b2eb710-37cd-4ac4-9364-98b4e7a370b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='radio']</value>
+      <webElementGuid>a4033fec-250c-4a58-860a-73056f7aa148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[3]/div[2]/div[2]/div/div[2]/div[2]/div/div/div/div/div/span/input</value>
+      <webElementGuid>848a045f-f9ae-4e05-8cbb-6947e9ffa908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>fac364c0-e09f-42d6-8106-39038606cec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio']</value>
+      <webElementGuid>93c223af-1afd-4675-845a-25a539526019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AArmandoHola Armandoachantomusclepoints_fd9440</name>
+   <tag></tag>
+   <elementGuidId>9e6fa603-8e6a-455d-ac0a-2006ae5b6e61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header-element.header-account-settings.min-w-max</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a3bb24c-85b0-472c-82c2-df4e81a8571b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-element header-account-settings min-w-max</value>
+      <webElementGuid>127a7088-b4e6-4628-bf85-61ad6b56112c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AArmando¡Hola Armando!achanto@musclepoints.com0Millas BenefitDatos personalesTarjetas asociadasMis reservacionesCerrar sesión</value>
+      <webElementGuid>d979e74d-886c-4be7-9af7-ba3cc02c5fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content global-responsive-horizontal-margins  global-max-page-width&quot;]/div[@class=&quot;flex flex-row gap-4 h-full items-center justify-end&quot;]/div[@class=&quot;header-element header-account-settings min-w-max&quot;]</value>
+      <webElementGuid>989d28db-4813-4cc7-875c-a757c27cf1a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/div[3]/div</value>
+      <webElementGuid>dbf4b349-8f4a-4e10-9f04-3df08001a9b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bienvenid@, Armando! Descubre las mejores opciones para ti con tus 0 Millas Interbank Benefit.'])[1]/following::div[7]</value>
+      <webElementGuid>a4095b80-cd73-4a2e-b409-3ff90db4252b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>dd03ea85-a3d4-44ea-b4fb-dbe15fa24281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AArmando¡Hola Armando!achanto@musclepoints.com0Millas BenefitDatos personalesTarjetas asociadasMis reservacionesCerrar sesión' or . = 'AArmando¡Hola Armando!achanto@musclepoints.com0Millas BenefitDatos personalesTarjetas asociadasMis reservacionesCerrar sesión')]</value>
+      <webElementGuid>365fd825-2f95-48f8-bb09-497bdd9849f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

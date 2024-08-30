@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NombreUser</name>
+   <tag></tag>
+   <elementGuidId>ee5e4241-ead9-42b3-8442-aacd26c5d62f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header-btn.clickable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1e2c5ac-50bb-4d63-ac59-6340249a6b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-btn clickable</value>
+      <webElementGuid>d6122449-ff6d-4254-afab-e847aa587d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AArmando</value>
+      <webElementGuid>147b8a20-3727-4392-a04f-c9408fb5b3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content global-responsive-horizontal-margins  global-max-page-width&quot;]/div[@class=&quot;flex flex-row gap-4 h-full items-center justify-end&quot;]/div[@class=&quot;header-element header-account-settings min-w-max&quot;]/div[1]/div[@class=&quot;header-btn clickable&quot;]</value>
+      <webElementGuid>359ef106-7a86-43e8-bbf9-6e8bffcf63b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/div[3]/div/div/div</value>
+      <webElementGuid>5c9d7f8f-fed8-4993-8a12-5b723faedc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bienvenid@, Armando! Descubre las mejores opciones para ti con tus 0 Millas Interbank Benefit.'])[1]/following::div[9]</value>
+      <webElementGuid>7da0ad14-0510-40d3-a68f-99c5f507c9d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Hola Armando!'])[1]/preceding::div[3]</value>
+      <webElementGuid>52e8e1a4-d7ba-4d43-82b9-e4716e71a19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/div</value>
+      <webElementGuid>88619fad-6b3c-47de-925b-8ccaeec5e808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AArmando' or . = 'AArmando')]</value>
+      <webElementGuid>ea1c9197-a8ed-42f8-9ecd-8572cee6552d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
