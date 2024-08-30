@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lima pasajeros filter, volver a empezar, MIA transmision filter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d5e559c-4851-48b1-90d2-7e1417b28380</testCaseGuid>
+</TestCaseEntity>

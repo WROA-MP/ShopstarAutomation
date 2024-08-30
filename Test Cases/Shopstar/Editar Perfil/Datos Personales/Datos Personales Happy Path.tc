@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Datos Personales Happy Path</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d454456-b8a8-4f51-b76d-b9724ffe6663</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Aeropuerto Intl Juan Santamara, SJO, Costa Rica</name>
+   <tag></tag>
+   <elementGuidId>62a4f90f-1d4d-4a65-b00b-03614d893e40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.font-bold.text-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pickUpLocation-autocomplete-option-0']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>950e7306-7ea0-465b-8275-e4b0ae796bdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-sm</value>
+      <webElementGuid>3329b00d-30f5-49a5-aad1-1ff84ebf8c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aeropuerto Intl Juan Santamaría, SJO, Costa Rica</value>
+      <webElementGuid>ab524f19-da2b-4667-833b-c520a55a7acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pickUpLocation-autocomplete-option-0&quot;)/div[@class=&quot;flex items-center p-2&quot;]/div[1]/p[@class=&quot;font-bold text-sm&quot;]</value>
+      <webElementGuid>b8ab33fe-046f-4c54-9423-a73b39795dcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pickUpLocation-autocomplete-option-0']/div/div/p</value>
+      <webElementGuid>c6669c1b-d988-4e36-8b2c-3e9818868879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Métodos de pago:'])[1]/following::p[1]</value>
+      <webElementGuid>4ac02de8-d636-43d7-bfd1-31ef001bb125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Términos y condiciones'])[1]/following::p[1]</value>
+      <webElementGuid>9e010dd3-b3f4-4bb2-910b-6951076a1003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aeropuerto Intl Juan Santamaría, SJO, Costa Rica']/parent::*</value>
+      <webElementGuid>e5db470b-19c7-4b48-8cfb-19eec990579c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/p</value>
+      <webElementGuid>6292db63-c90a-4689-aa35-1809a9ade400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Aeropuerto Intl Juan Santamaría, SJO, Costa Rica' or . = 'Aeropuerto Intl Juan Santamaría, SJO, Costa Rica')]</value>
+      <webElementGuid>c60d10b8-e9d2-4bb2-8a6b-9d84b4f1c8cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

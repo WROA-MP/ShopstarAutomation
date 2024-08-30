@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Listo</name>
+   <tag></tag>
+   <elementGuidId>585664ae-28bb-41de-840d-c92d6f8f3b14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[3]/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div/div/div/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5e323f96-d5f2-4697-8aee-7edb9585edf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>muscle-button btn-type-solid btn-size-full-length text-base bold-text</value>
+      <webElementGuid>eab68ca8-35a1-4d21-9961-6c6cebf680d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Listo</value>
+      <webElementGuid>3b97403b-4e44-424d-b881-0208047e6a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;global-page global-responsive-horizontal-paddings&quot;]/div[@class=&quot;flex flex-row gap-12 pt-4 flex-wrap h-full&quot;]/div[@class=&quot;products-search-content flex-1 w-full flex flex-col gap-4&quot;]/div[@class=&quot;hidden md:flex w-full&quot;]/div[@class=&quot;flex flex-col w-full gap-3&quot;]/div[@class=&quot;flex flex-col xl:flex-row  items-end w-full gap-3&quot;]/div[@class=&quot;flex flex-col gap-3 w-full&quot;]/div[@class=&quot;flex w-full flex-wrap gap-3 flex-col md:flex-row&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;relative h-0 z-[500]&quot;]/div[@class=&quot;absolute z-10 mt-0 top-1 min-w-fit rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none left-0 w-fit&quot;]/div[@class=&quot;py-1&quot;]/div[@class=&quot;flex flex-col p-4 w-min&quot;]/div[@class=&quot;flex flex-col w-full justify-between md:flex-row&quot;]/div[@class=&quot;flex-1 pt-[1em] md:pl-[1em]&quot;]/button[@class=&quot;muscle-button btn-type-solid btn-size-full-length text-base bold-text&quot;]</value>
+      <webElementGuid>f22c586c-bc4f-40ae-bafd-8d9a9343b9e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[3]/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>aa215136-a334-47d7-88e3-8cb04b5f2f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='do'])[2]/following::button[31]</value>
+      <webElementGuid>7051ede9-1184-4320-bd77-a1b8813cf269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sá'])[2]/following::button[31]</value>
+      <webElementGuid>e59f09fa-0619-411e-924e-812315df9cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::button[3]</value>
+      <webElementGuid>8ecf1be3-abec-4b17-b9b8-873935f623a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ordenar por:'])[1]/preceding::button[4]</value>
+      <webElementGuid>9c41e502-b51b-4be2-9902-4a95d35233fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Listo']/parent::*</value>
+      <webElementGuid>ca148d1f-a9ea-4e50-8d7c-146229ff5f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>c5ddf1bd-d936-4008-9e75-cf2838fcc2e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Listo' or . = 'Listo')]</value>
+      <webElementGuid>63854f24-5307-47a3-96bc-3dbae4ee00c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

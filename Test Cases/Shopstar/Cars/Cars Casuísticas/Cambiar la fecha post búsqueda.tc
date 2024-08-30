@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cambiar la fecha post búsqueda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>adc184fc-d6ba-4d81-8a45-4797d827558e</testCaseGuid>
+</TestCaseEntity>
