@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Volver</name>
+   <tag></tag>
+   <elementGuidId>6a472f52-5959-4889-bf02-77b70c415f1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/div[2]/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.muscle-button.btn-type-link.text-base.tx-pmd-semiBold.tx-plg-bold.btn-size-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c2d7e747-91b2-4349-96cd-961f3e75b012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>muscle-button btn-type-link text-base tx-pmd-semiBold tx-plg-bold btn-size-small</value>
+      <webElementGuid>f414e27b-fce4-4079-8bfc-0594cca4c29b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Volver</value>
+      <webElementGuid>bda27e69-157a-4ef3-afb9-6d3288f3e9d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[1]/div[@class=&quot;w-full flex flex-1 justify-center&quot;]/div[@class=&quot;w-full max-width-component&quot;]/div[@class=&quot;global-page global-responsive-horizontal-paddings mb-0 pb-0&quot;]/div[@class=&quot;mb-[27px]&quot;]/div[@class=&quot;mt-4&quot;]/button[@class=&quot;muscle-button btn-type-link text-base tx-pmd-semiBold tx-plg-bold btn-size-small&quot;]</value>
+      <webElementGuid>dd316274-580c-441e-8e7e-b27670da8fcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>ba3e4be6-9318-42d8-b6ec-24f704b43e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/following::button[1]</value>
+      <webElementGuid>c1194944-c367-4481-aec0-47a2e45c4bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar sesión'])[1]/following::button[2]</value>
+      <webElementGuid>b811741f-9f66-48b8-b638-1cd0ab49b3fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sheraton Lima Historic Center'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f48378c-d62c-4045-b1d9-eca4decbd6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotel'])[1]/preceding::button[1]</value>
+      <webElementGuid>c0617792-d92e-48cd-9692-392708008811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Volver']/parent::*</value>
+      <webElementGuid>e440dc9d-7b7c-408d-8bcd-bb6ed7714d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>88022791-098b-47f9-863e-7ccadfb96735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Volver' or . = 'Volver')]</value>
+      <webElementGuid>3ade2cef-b08a-4838-ab16-ec5f680725ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

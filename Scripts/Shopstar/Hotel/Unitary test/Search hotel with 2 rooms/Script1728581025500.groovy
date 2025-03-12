@@ -23,13 +23,14 @@ import java.util.Calendar as Calendar
 import utils.DateUtils as DateUtils
 
 // Obtener la fecha n días en el futuro
+WebUI.callTestCase(findTestCase('Shopstar/Login/Login User'), [:], FailureHandling.STOP_ON_FAILURE)
+
 def futureNDate = DateUtils.getFutureDate(4)
 
 println('Future date (N days): ' + futureNDate)
 
 // Obtener la fecha z días en el futuro
 def futureZDate = DateUtils.getFutureDate(6)
-date
 
 println('Future date (Z days): ' + futureZDate)
 
@@ -37,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_Shopstar
 
 WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/div_1 Habitacin'))
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel_e2e/AddRooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/button_Aadir habitacin'))
 
 WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/button_Listo'))
 

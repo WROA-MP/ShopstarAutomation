@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Shopstar/Login/Login User'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel_e2e/Search hotel with N rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Search hotel with N rooms'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel_e2e/Select Hotel and rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Select Hotel and rooms'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Checkout/Checkout N Rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Checkout/Checkout N Rooms'), [:], FailureHandling.STOP_ON_FAILURE)
 

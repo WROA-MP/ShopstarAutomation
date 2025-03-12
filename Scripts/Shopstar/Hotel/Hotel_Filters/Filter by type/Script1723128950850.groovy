@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel_e2e/Search hotel with 2 rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Search hotel with 2 rooms'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_Filters_Order/div_Tipo de Alojamiento'))
 

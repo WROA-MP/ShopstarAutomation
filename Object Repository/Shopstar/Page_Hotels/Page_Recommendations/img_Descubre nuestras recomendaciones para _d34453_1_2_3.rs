@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Descubre nuestras recomendaciones para _d34453_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>cf9d8f92-3ed6-4ddb-aa62-64741104e9b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div[3]/div/div/div[2]/div/div/div[4]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6436ba4e-cb0e-4cda-90ce-783fdf179c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://a.storyblok.com/f/290560/500x400/1760bd5d9c/ciudad-de-panama.webp</value>
+      <webElementGuid>9a383cf4-ebe9-40cb-a860-bafb773403df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Ciudad de Panamá</value>
+      <webElementGuid>ceebc339-a875-4c74-88ba-2f867ba1f093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-5/6 object-cover</value>
+      <webElementGuid>821329ca-1aac-4393-96e8-afb8d08724e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;home-screen-content global-page global-responsive-horizontal-paddings&quot;]/div[1]/div[@class=&quot;see-more-section&quot;]/div[@class=&quot;home-recommendations-content&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6&quot;]/div[@class=&quot;relative bg-white transition-transform transform hover:scale-105 cursor-pointer&quot;]/img[@class=&quot;w-full h-5/6 object-cover&quot;]</value>
+      <webElementGuid>446fab6d-f155-4cb9-9b8b-855ef1725e75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[3]/div/div/div[2]/div/div/div[4]/img</value>
+      <webElementGuid>6492e33d-3123-43d0-a1b6-ebdba6d2f5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Ciudad de Panamá']</value>
+      <webElementGuid>43af9a7d-41ec-4201-872a-1f176f7b5ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/img</value>
+      <webElementGuid>e8847706-7b39-4330-ad3c-fab5403d09f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://a.storyblok.com/f/290560/500x400/1760bd5d9c/ciudad-de-panama.webp' and @alt = 'Ciudad de Panamá']</value>
+      <webElementGuid>979aee08-a8a0-4a08-a009-8964ef415592</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Millas Benefit_w-full h-200px object-co_9cbddd_1</name>
+   <tag></tag>
+   <elementGuidId>b8fa6e08-e94e-4d65-9f18-c75cb3f91262</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/div[2]/div[3]/div/div/div/div/div[2]/div[2]/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d9a06a88-674c-4295-b1f1-df6d299064c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://a.storyblok.com/f/290560/1000x667/ebf6a6e49d/sheraton-orlando-lake-buena-vista-resort-priced.webp</value>
+      <webElementGuid>c25f0035-d3ea-485d-a9dc-8cc80da16f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>12205 S Apopka Vineland Rd, Orlando, Florida, 32836 - Sheraton Orlando Lake Buena Vista Resort</value>
+      <webElementGuid>f82358aa-300e-4d2e-bd66-384e276f045d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-[200px] object-cover md:rounded-2xl</value>
+      <webElementGuid>3ff7bf72-dc19-4f60-964f-060114640a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[1]/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;w-full flex flex-1 justify-center&quot;]/div[@class=&quot;w-full max-width-component&quot;]/div[@class=&quot;home-screen-content global-responsive-horizontal-paddings w-full&quot;]/div[@class=&quot;flex flex-col gap-[32px]&quot;]/div[@class=&quot;flex flex-col gap-[32px] mb-4&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex flex-row gap-4 overflow-x-auto px-1 pt-1 pb-3 scroll-smooth&quot;]/div[@class=&quot;min-w-[280px] max-w-[280px]  overflow-hidden  h-fit relative cursor-pointer bg-white card-shadow global-card rounded-2xl pb-0&quot;]/img[@class=&quot;w-full h-[200px] object-cover md:rounded-2xl&quot;]</value>
+      <webElementGuid>f19b8761-3f95-454b-ab7a-8d17cb4d82bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/div[2]/div[3]/div/div/div/div/div[2]/div[2]/div[2]/img</value>
+      <webElementGuid>8799c8ad-64d2-4bdc-8299-f790ac4ec1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='12205 S Apopka Vineland Rd, Orlando, Florida, 32836 - Sheraton Orlando Lake Buena Vista Resort']</value>
+      <webElementGuid>ceadbabe-8090-41eb-b276-8c9632c924e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/img</value>
+      <webElementGuid>c0551feb-a160-4a26-8794-1f916f49b151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://a.storyblok.com/f/290560/1000x667/ebf6a6e49d/sheraton-orlando-lake-buena-vista-resort-priced.webp' and @alt = '12205 S Apopka Vineland Rd, Orlando, Florida, 32836 - Sheraton Orlando Lake Buena Vista Resort']</value>
+      <webElementGuid>48eec073-a3b3-4b55-9f19-1051592b232d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

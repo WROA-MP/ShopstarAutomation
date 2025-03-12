@@ -17,36 +17,38 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Shopstar/Hotel/Unitary test/Select Hotel and rooms for N rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.delay(3)
 
-// Función para rellenar los campos de nombre y apellido según la cantidad de habitaciones
+
+
 def fillFieldsForRooms(int maxRooms) {
     String nombre = 'Juan'
     String apellido = 'Perez'
 
     for (int i = 1; i <= maxRooms; i++) {
-        if (WebUI.verifyElementPresent(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_name_' + i), 5, FailureHandling.OPTIONAL)) {
-            WebUI.setText(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_name_' + i), nombre)
-            WebUI.setText(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_LastName_' + i), apellido)
+        TestObject inputName = findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_name_' + i)
+        TestObject inputLastName = findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_LastName_' + i)
+
+        if (WebUI.verifyElementPresent(inputName, 5, FailureHandling.OPTIONAL)) {
+            WebUI.setText(inputName, nombre)
+            WebUI.setText(inputLastName, apellido)
         } else {
-            // Si no encuentra un input, sale del bucle y procede con la reserva
             WebUI.comment("No se encontró el campo input_name_" + i + ", procediendo a la reserva.")
             proceedToReservation()
             return
         }
     }
-    // Si completa el llenado de todos los inputs, también procede a la reserva
     proceedToReservation()
 }
-
-// Función para hacer scroll a una posición específica
 def scrollToPosition(int x, int y) {
-    WebUI.executeJavaScript("window.scrollTo(arguments[0], arguments[1]);", Arrays.asList(x, y))
+	WebUI.executeJavaScript("window.scrollTo(arguments[0], arguments[1]);", Arrays.asList(x, y))
 }
 
-// Proceder con la reserva
+
 def proceedToReservation() {
-    WebUI.delay(1) // Esperar un momento para asegurar que la página esté estable
+    WebUI.delay(1)
 
     // Hacer scroll al inicio de la página (0,0)
     scrollToPosition(0, 0)
@@ -54,31 +56,18 @@ def proceedToReservation() {
     // Obtener el botón "Reservar"
     def reservarButton = findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/button_Reservar')
 
-    // Esperar explícitamente por el botón "Reservar"
-    WebUI.waitForElementVisible(reservarButton, 5)
-
-    // Verificar si el botón es visible y habilitado
-    if (WebUI.verifyElementVisible(reservarButton) && WebUI.verifyElementClickable(reservarButton)) {
-        try {
-            // Intentar clic con JavaScript para mejorar la rapidez
-            WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(WebUI.findWebElement(reservarButton)))
-            WebUI.comment("Se hizo clic en el botón 'Reservar'.")
-        } catch (Exception e) {
-            WebUI.comment("Error al hacer clic en el botón 'Reservar': " + e.getMessage())
-            // Intentar clic con JavaScript si el clic convencional falla
-            WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(WebUI.findWebElement(reservarButton)))
-        }
-    } else {
-        WebUI.comment("El botón 'Reservar' no es visible o no es clickeable.")
-        // Intentar con JavaScript si el botón no es visible o clickeable
-        WebUI.executeJavaScript("arguments[0].scrollIntoView(true);", Arrays.asList(WebUI.findWebElement(reservarButton)))
+    // Verificar la presencia del botón "Reservar"
+    if (WebUI.verifyElementPresent(reservarButton, 5)) {
         WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(WebUI.findWebElement(reservarButton)))
+        WebUI.comment("Se hizo clic en el botón 'Reservar'.")
+    } else {
+        WebUI.comment("El botón 'Reservar'n se encontró...")
+        return
     }
 
-    // Asegúrate de esperar después del clic
     WebUI.delay(2)
-    
-    // Hacer clic en los otros elementos
+
+    // Click en los checkboxes necesarios para completar la reserva
     WebUI.click(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_Revisa y paga_PrivateSwitchBase-input_e4d2f2'))
     WebUI.click(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_SeleccionarTarjeta'))
 }
@@ -88,3 +77,4 @@ int maxRooms = 6
 
 // Llamar a la función para rellenar los campos
 fillFieldsForRooms(maxRooms)
+

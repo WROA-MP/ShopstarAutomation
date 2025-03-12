@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alojamientos</name>
+   <tag></tag>
+   <elementGuidId>a83d5df0-1e2c-4413-ac5e-118494902e6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ede5ec51-7ecb-4370-b559-c1cdc340fddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>labeled-icon-button clickable flex-col</value>
+      <webElementGuid>7f102343-e288-4415-812a-fc1399212808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alojamientos</value>
+      <webElementGuid>c98561aa-9210-40eb-9639-321f2ad6e7f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;nav-card-container global-responsive-horizontal-paddings&quot;]/div[@class=&quot;nav-card&quot;]/div[@class=&quot;nav-card-tabs nav-card-section&quot;]/div[@class=&quot;nav-card-tab&quot;]/div[@class=&quot;labeled-icon-button clickable flex-col&quot;]</value>
+      <webElementGuid>eda568e0-4d66-40c4-8f44-7eef16712346</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>9f9ef295-054a-44b4-ba73-f64314f0c448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vuelos'])[1]/following::div[2]</value>
+      <webElementGuid>c4a9d4b1-317c-4947-8d0d-e330266a8071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seguro de viaje Shopstar'])[1]/following::div[11]</value>
+      <webElementGuid>65d124d5-3d55-497f-aa73-525e4479daac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autos'])[1]/preceding::div[4]</value>
+      <webElementGuid>bd38c138-8d8c-418a-bc89-d496924bb73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>9977806c-10fc-4a83-8cab-ae5c924fdc53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alojamientos' or . = 'Alojamientos')]</value>
+      <webElementGuid>440ce2e9-9471-4c6e-a7a2-32fa3d5f8290</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

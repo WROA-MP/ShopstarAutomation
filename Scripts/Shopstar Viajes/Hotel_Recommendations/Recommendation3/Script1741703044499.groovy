@@ -17,11 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Shopstar/Login/Login User'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Shopstar Viajes/Hotel_Recommendations/Home_Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Search hotel with 2 rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.findWebElement(findTestObject('Shopstar/Page_Shopstar_Viajes/Page_Hotel_Recommendations/h6_Casa Andina Premium Piura'))
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Select Hotel and rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.scrollToElement(findTestObject('Shopstar/Page_Shopstar_Viajes/Page_Hotel_Recommendations/h6_Casa Andina Premium Piura'), 
+    0)
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Checkout/Checkout 2 rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Shopstar/Page_Shopstar_Viajes/Page_Hotel_Recommendations/h6_Casa Andina Premium Piura'))
+
+WebUI.click(findTestObject('Object Repository/Shopstar/Page_Shopstar_Viajes/Page_Hotel_Recommendations/button_Volver (1)'))
 

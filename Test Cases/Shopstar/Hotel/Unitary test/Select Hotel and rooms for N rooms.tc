@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Hotel and rooms for N rooms</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>008b9fc0-c4f3-41b8-8fcf-bc15936660c3</testCaseGuid>
+</TestCaseEntity>

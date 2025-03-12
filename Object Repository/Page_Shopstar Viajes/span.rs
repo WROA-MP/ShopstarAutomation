@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>e7661498-b517-45c9-a555-659405423d93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/div[2]/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>136c902b-573a-494d-b0aa-84bf10291b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[1]/div[@class=&quot;w-full flex flex-1 justify-center&quot;]/div[@class=&quot;w-full max-width-component&quot;]/div[@class=&quot;global-page global-responsive-horizontal-paddings mb-0 pb-0&quot;]/div[@class=&quot;mb-[27px]&quot;]/div[@class=&quot;mt-4&quot;]/button[@class=&quot;muscle-button btn-type-link text-base tx-pmd-semiBold tx-plg-bold btn-size-small&quot;]/span[1]</value>
+      <webElementGuid>a8d72843-7b82-4b4e-806d-1a6aa4573d53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>b0d79596-c596-4339-9f33-360cbab35bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]//span[1]</value>
+      <webElementGuid>a189fd3c-fe3d-424c-b19b-2eca3d107fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/following::span[1]</value>
+      <webElementGuid>4c40f9cb-e7ac-4e31-9f55-b0965af6f4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casa Andina Premium Piura'])[1]/preceding::span[1]</value>
+      <webElementGuid>e0bf0268-9549-4584-bcc7-1394d42f5771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotel'])[1]/preceding::span[1]</value>
+      <webElementGuid>e29915fd-2ef5-4091-93ba-c4b30237254f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>2eca20bc-6a66-481e-a7c7-05d3782be486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

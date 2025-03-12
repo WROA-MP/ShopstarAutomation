@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Descubre nuestras recomendaciones para _d34453_1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>d31b7737-ee4b-4cf2-9ebc-f9f5f861ef35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div[3]/div/div/div[2]/div/div/div[6]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>60b0a5dc-dfd8-49ec-b4fe-6e6a11f662e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://a.storyblok.com/f/290560/500x400/7a679acf82/rio-de-janeiro.webp</value>
+      <webElementGuid>6a6eebdc-d34f-49f9-80d7-951284ee25fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Río de Janeiro</value>
+      <webElementGuid>110d4136-2074-4a16-b052-434226300676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-5/6 object-cover</value>
+      <webElementGuid>cd6a0299-18e0-4569-ad24-484d7690805a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;home-screen-content global-page global-responsive-horizontal-paddings&quot;]/div[1]/div[@class=&quot;see-more-section&quot;]/div[@class=&quot;home-recommendations-content&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6&quot;]/div[@class=&quot;relative bg-white transition-transform transform hover:scale-105 cursor-pointer&quot;]/img[@class=&quot;w-full h-5/6 object-cover&quot;]</value>
+      <webElementGuid>3d475e90-b3d4-4ca4-b51c-c8c5d27d5b47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[3]/div/div/div[2]/div/div/div[6]/img</value>
+      <webElementGuid>9de79a3a-e78c-46d9-96c8-6ceea8a550ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Río de Janeiro']</value>
+      <webElementGuid>c6dddbfb-22f2-4c92-a850-ac49994ce1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/img</value>
+      <webElementGuid>d8ad0214-f1ad-445a-922b-59651842b564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://a.storyblok.com/f/290560/500x400/7a679acf82/rio-de-janeiro.webp' and @alt = 'Río de Janeiro']</value>
+      <webElementGuid>88271b61-64e0-4bc2-b108-b880ef1b2af3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

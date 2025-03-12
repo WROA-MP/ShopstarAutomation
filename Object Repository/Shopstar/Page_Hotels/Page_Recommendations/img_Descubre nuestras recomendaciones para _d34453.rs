@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Descubre nuestras recomendaciones para _d34453</name>
+   <tag></tag>
+   <elementGuidId>1c32064e-17c2-40e7-87da-39bc4c3cbe3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div[3]/div/div/div[2]/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>027e3622-0a92-4a99-8480-2687504b000a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://a.storyblok.com/f/290560/500x400/7f1304bec3/punta-cana.webp</value>
+      <webElementGuid>da74dfc8-db93-49e4-8d37-b130170c2f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Punta Cana</value>
+      <webElementGuid>a833182c-49a9-4664-a9ea-4ab47ebb2cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-5/6 object-cover</value>
+      <webElementGuid>fc39a609-d1eb-4a94-999e-69ecd908f030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;home-screen-content global-page global-responsive-horizontal-paddings&quot;]/div[1]/div[@class=&quot;see-more-section&quot;]/div[@class=&quot;home-recommendations-content&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6&quot;]/div[@class=&quot;relative bg-white transition-transform transform hover:scale-105 cursor-pointer&quot;]/img[@class=&quot;w-full h-5/6 object-cover&quot;]</value>
+      <webElementGuid>bfa0803d-4f8d-4493-b5b2-14402055beaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[3]/div/div/div[2]/div/div/div/img</value>
+      <webElementGuid>d40189b9-f1cc-4522-8149-29d4883eedd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Punta Cana']</value>
+      <webElementGuid>175aa8c4-30d3-491a-95ff-0c7ec272c9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/img</value>
+      <webElementGuid>925f5832-3802-4ff4-8ed5-61a9bb4a247e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://a.storyblok.com/f/290560/500x400/7f1304bec3/punta-cana.webp' and @alt = 'Punta Cana']</value>
+      <webElementGuid>e67364c5-7d24-488d-a2b2-519b7bbdaac0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

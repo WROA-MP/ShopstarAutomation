@@ -17,11 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Shopstar/Login/Login User'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Shopstar/Hotel/Unitary test/Search hotel with 2 rooms'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Search hotel with 2 rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/button_Ver detalles'))
 
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Select Hotel and rooms'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Shopstar/Hotel/Hotel Flow/Checkout/Checkout 2 rooms'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/button_Reservar 2 habitaciones'))
 

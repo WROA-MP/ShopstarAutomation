@@ -17,22 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_name_1'), 'Juan')
+WebUI.callTestCase(findTestCase('Shopstar Viajes/Hotel_Recommendations/Home_Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_LastName_1'), 'Perez')
+WebUI.click(findTestObject('Object Repository/Shopstar/Page_Shopstar_Viajes/Page_Hotel_Recommendations/img_Millas Benefit_w-full h-200px object-co_9cbddd_1'))
 
-WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/button_Reservar'))
-
-WebUI.click(findTestObject('Object Repository/Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_Revisa y paga_PrivateSwitchBase-input_e4d2f2'))
-
-WebUI.click(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_SeleccionarTarjeta'))
-
-WebUI.waitForElementPresent(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_cvv'), 
-    5)
-
-WebUI.sendKeys(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_cvv'), Keys.chord(
-        '123'))
-
-WebUI.scrollToElement(findTestObject('Shopstar/Page_Hotels/Page_ShopstarViajes_Hotel_e2e/Page_Checkout/input_Revisa y paga_PrivateSwitchBase-input_e4d2f2'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Shopstar/Page_Shopstar_Viajes/Page_Hotel_Recommendations/button_Volver (1)'))
 

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Descubre nuestras recomendaciones para _d34453_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>c19f397f-d395-428b-81c5-92cf297ccc0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[2]/div[3]/div/div/div[2]/div/div/div[5]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fa446ff1-094d-4de0-af2c-9b0569839e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://a.storyblok.com/f/290560/500x400/69c5922310/ciudad-de-mexico.webp</value>
+      <webElementGuid>b9336047-254e-47e6-b9e9-bf72acf75a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Ciudad de México</value>
+      <webElementGuid>80047858-dbf9-413f-a6f1-902b03d8b83a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-5/6 object-cover</value>
+      <webElementGuid>a0080a28-b26b-4dd5-9a95-9dbe8175451c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home-screen relative&quot;]/div[@class=&quot;home-screen-content global-page global-responsive-horizontal-paddings&quot;]/div[1]/div[@class=&quot;see-more-section&quot;]/div[@class=&quot;home-recommendations-content&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6&quot;]/div[@class=&quot;relative bg-white transition-transform transform hover:scale-105 cursor-pointer&quot;]/img[@class=&quot;w-full h-5/6 object-cover&quot;]</value>
+      <webElementGuid>c67ed35d-a1a3-4f85-8e8d-c55aea8402cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div[2]/div[3]/div/div/div[2]/div/div/div[5]/img</value>
+      <webElementGuid>7539edbe-8ef2-458c-a719-36ff65889fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Ciudad de México']</value>
+      <webElementGuid>cbdd0f30-6312-448c-8e18-f1dcefb0b389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/img</value>
+      <webElementGuid>d9fdbdf1-2ba9-4ac3-bbe6-740904445613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://a.storyblok.com/f/290560/500x400/69c5922310/ciudad-de-mexico.webp' and @alt = 'Ciudad de México']</value>
+      <webElementGuid>ec5b58d4-2e52-4f75-ba8a-b014dbcd4a24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
